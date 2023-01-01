@@ -1,0 +1,1 @@
+out/res/res_sprite.o: res/res_sprite.res
